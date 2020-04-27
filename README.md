@@ -18,5 +18,5 @@ Next step is to explore the data through visualization. We should always perform
 
 Some of the visualization from our EDA are
 ![Histogram](https://github.com/Kshitiz14/Predicting-Glassdoor-Salary/blob/master/1.PNG)
-![Wordcloud](https://github.com/Kshitiz14/Predicting-Glassdoor-Salary/blob/master/1.PNG)
+![Wordcloud](https://github.com/Kshitiz14/Predicting-Glassdoor-Salary/blob/master/2.PNG)
 
