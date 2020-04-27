@@ -20,3 +20,5 @@ Some of the visualization from our EDA are
 ![Histogram](https://github.com/Kshitiz14/Predicting-Glassdoor-Salary/blob/master/1.PNG)
 ![Wordcloud](https://github.com/Kshitiz14/Predicting-Glassdoor-Salary/blob/master/2.PNG)
 
+# Model Building
+Now we are finally building our prediction model.There are various prediction algorithm such as regression, classification, clustering, etc. Based on the nature and characteristics of the data, needed outcome, we can choose our algorithm. Since, we are predicting quantitative amount, regression would be best choice. Even in regression we would use three model multiple linear regression, lasso regression and random forest. Among three model, we chose the random forest since it performed the best. 
