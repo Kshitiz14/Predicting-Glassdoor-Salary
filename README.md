@@ -17,6 +17,6 @@ In our data, we will change the elements of dataframe into more readable format 
 Next step is to explore the data through visualization. We should always perform exploratory data analysis before moving to model building. EDA not only help us to summarize the main characteristics but also provides intuition for our statistical model. EDA is a simple way to find any discrepancy in our data through visualization. 
 
 Some of the visualization from our EDA are
-![Histogram](1.png)
-![Wordcloud](2.png)
+![Histogram](https://github.com/Kshitiz14/Predicting-Glassdoor-Salary/blob/master/1.PNG)
+![Wordcloud](https://github.com/Kshitiz14/Predicting-Glassdoor-Salary/blob/master/1.PNG)
 
